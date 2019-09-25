@@ -1,2 +1,2 @@
-# NymPy-
+# NumPy-
 NUmpy for Learners
